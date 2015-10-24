@@ -1,0 +1,14 @@
+I:\Coding\C#\Practice and Fun\WPFMediaPlayer\WPFMediaPlayer\bin\Debug\WPFMediaPlayer.exe.config
+I:\Coding\C#\Practice and Fun\WPFMediaPlayer\WPFMediaPlayer\bin\Debug\WPFMediaPlayer.exe
+I:\Coding\C#\Practice and Fun\WPFMediaPlayer\WPFMediaPlayer\bin\Debug\WPFMediaPlayer.pdb
+I:\Coding\C#\Practice and Fun\WPFMediaPlayer\WPFMediaPlayer\obj\Debug\WPFMediaPlayer.csprojResolveAssemblyReference.cache
+I:\Coding\C#\Practice and Fun\WPFMediaPlayer\WPFMediaPlayer\obj\Debug\MainWindow.g.cs
+I:\Coding\C#\Practice and Fun\WPFMediaPlayer\WPFMediaPlayer\obj\Debug\App.g.cs
+I:\Coding\C#\Practice and Fun\WPFMediaPlayer\WPFMediaPlayer\obj\Debug\WPFMediaPlayer_MarkupCompile.cache
+I:\Coding\C#\Practice and Fun\WPFMediaPlayer\WPFMediaPlayer\obj\Debug\WPFMediaPlayer_MarkupCompile.lref
+I:\Coding\C#\Practice and Fun\WPFMediaPlayer\WPFMediaPlayer\obj\Debug\MainWindow.baml
+I:\Coding\C#\Practice and Fun\WPFMediaPlayer\WPFMediaPlayer\obj\Debug\WPFMediaPlayer.g.resources
+I:\Coding\C#\Practice and Fun\WPFMediaPlayer\WPFMediaPlayer\obj\Debug\WPFMediaPlayer.Properties.Resources.resources
+I:\Coding\C#\Practice and Fun\WPFMediaPlayer\WPFMediaPlayer\obj\Debug\WPFMediaPlayer.csproj.GenerateResource.Cache
+I:\Coding\C#\Practice and Fun\WPFMediaPlayer\WPFMediaPlayer\obj\Debug\WPFMediaPlayer.exe
+I:\Coding\C#\Practice and Fun\WPFMediaPlayer\WPFMediaPlayer\obj\Debug\WPFMediaPlayer.pdb
